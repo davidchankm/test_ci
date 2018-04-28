@@ -13,7 +13,7 @@ public class citestController {
 
     @RequestMapping(value = "", method = RequestMethod.GET)
     public String test() {
-        return "Hello world!";
+        return "Hello world! this is 2018 04 28 revised!";
     }
 
 }
